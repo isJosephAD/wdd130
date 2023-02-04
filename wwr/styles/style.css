@@ -188,11 +188,7 @@ nav a:hover {
 .icon {
     width: 80px;
 }
-nav a {
-    text-align: center;
-    color: #fcfbfb;
-    text-decoration: none;
-} 
+
 footer p {
     font-size: 1.2em;
     
