@@ -52,10 +52,13 @@
     height: 200px;
     background-color: white;
     width: 70%;
-    -webkit-box-shadow: -4px -2px 14px -6px rgba(0,0,0,0.75);
--moz-box-shadow: -4px -2px 14px -6px rgba(0,0,0,0.75);
-box-shadow: -4px -2px 14px -6px rgba(0,0,0,0.75);
 }
+
+.borderme {
+    border-width:3px;
+    border-style:solid;
+    border-color:#055177;
+   }
 
 #two{
     height: 200px;
