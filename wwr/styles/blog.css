@@ -11,3 +11,17 @@ body{background-color: aqua;}
     width: 100%;
     background-color: yellow;
 }
+
+#logo{
+    height: 100px;
+    width: 20%;
+    float: left;
+    background-color: white;
+}
+
+#navText{
+    width: 80%;
+    background-color: aquamarine;
+    float: right;
+}
+
