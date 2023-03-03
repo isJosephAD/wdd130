@@ -1,5 +1,5 @@
 #mainDiv{
-    height: 1700px;
+    height: 1400px;
     width: auto;
 }
 
@@ -44,7 +44,6 @@
 
 #rightblog{
     height: 700px;
-    background-color: rgb(89, 86, 86);
     float: right;
     width: 70%;
 }
