@@ -57,6 +57,7 @@ body{background-color: aqua;}
 #one{
     height: 200px;
     background-color: white;
+    width: 70%;
 }
 
 #two{
@@ -69,3 +70,7 @@ body{background-color: aqua;}
     background-color: yellow;
 }
 
+#down{
+    height: 150px;
+    background-color: rgb(105, 144, 245);
+}
