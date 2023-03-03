@@ -69,5 +69,10 @@
 
 #down{
     height: 150px;
-    background-color: rgb(105, 144, 245);
+    background-color: green;
+}
+
+#footer{
+    height: 30px;
+    background-color: black;
 }
