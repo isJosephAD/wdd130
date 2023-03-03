@@ -70,3 +70,17 @@
     background-color: rgb(79, 20, 118);
 color: white;
 }
+
+nav a:hover {
+    background-color: black;
+}
+
+.icon {
+    width: 80px;
+}
+
+body {
+    font-family: HK Grotesk;
+    background-color: var(--color-bg);
+  }
+
