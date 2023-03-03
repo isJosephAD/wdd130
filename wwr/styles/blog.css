@@ -68,11 +68,6 @@
 }
 
 #down{
-    height: 150px;
+    height: 200px;
     background-color: green;
-}
-
-#footer{
-    height: 30px;
-    background-color: black;
 }
