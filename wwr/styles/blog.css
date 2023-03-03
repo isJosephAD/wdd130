@@ -1,1 +1,13 @@
-body{background-color: bisque;}
+body{background-color: aqua;}
+
+#mainDiv{
+    height: auto;
+    width: auto;
+    background-color: bisque;
+}
+
+#top{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+}
