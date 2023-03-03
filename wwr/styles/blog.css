@@ -25,3 +25,12 @@ body{background-color: aqua;}
     float: right;
 }
 
+#banner{
+    height: 500px;
+    background-color: azure;
+}
+
+#smallspace{
+    height: 20px;
+    background-color: grey;
+}
