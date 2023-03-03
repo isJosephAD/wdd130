@@ -34,3 +34,44 @@ body{background-color: aqua;}
     height: 20px;
     background-color: grey;
 }
+
+#midle{
+    height: 700px;
+}
+
+#leftblog{
+    height: 700px;
+    background-color: rgb(71, 174, 229);
+    float: left;
+}
+
+#rightblog{
+    height: 700px;
+    background-color: rgb(89, 86, 86);
+    float: right;
+}
+
+#one{
+    height: 200px;
+    background-color: rgb(100, 236, 46);
+}
+
+#two{
+    height: 200px;
+    background-color: rgb(106, 118, 101);
+}
+
+#three{
+    height: 300px;
+    background-color: rgb(221, 233, 216);
+}
+
+#down{
+    height: 150px;
+    background-color: rgb(105, 144, 245);
+}
+
+#footer{
+    height: 30px;
+    background-color: rgb(2, 2, 2);
+}
