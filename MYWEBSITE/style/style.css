@@ -1,0 +1,10 @@
+#main{
+    height: auto;
+    width: 100%;
+    align-content: center;
+    }
+
+#banner{height: 500px;
+        width: 100%;
+        background-color: aqua;}
+
