@@ -10,3 +10,10 @@
         background-image: url(img/banner.png);
     }
 
+#WelcomeNote{background-color: black;
+             color: rgb(255, 255, 255);
+            width: 100%;}
+
+#midpage{height: 600px; width: 100%; background-color: azure;}
+#bannerpic{height: 600px; width: 50%; float: left;}
+#bannertext{height: 600px; width: 50%; float: right;}
