@@ -6,6 +6,7 @@
 
 #banner{height: 500px;
         width: 100%;
+        background-color: rgb(38, 13, 63);
     }
 
 #WelcomeNote{background-color: black;
