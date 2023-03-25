@@ -22,7 +22,7 @@
 
 
 /*ABOUT US CSS */ 
-
+#leftside{float: left; height: 600px; background-color: #253146; width: 30%;}
 #pic{height: 600px; background-color: yellow; width: 30%; float: left;}
 
 
