@@ -22,9 +22,10 @@
 
 
 /*ABOUT US CSS */ 
+#Amidpage{height: auto; width: 100%;}
 #leftside{float: left; height: 600px; background-color: #253146; width: 30%;}
-#pic{height: 600px; background-color: yellow; width: 30%; float: left;}
-
+#pic{height: 200px; background-color: yellow; width: 30%; float: left;}
+#pictext{height: 400px; width: 30%; float: left;}
 
 
 
