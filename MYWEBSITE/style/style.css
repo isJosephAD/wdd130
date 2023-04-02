@@ -13,7 +13,7 @@
              color: rgb(255, 255, 255);
             width: 100%;}
 
-#midpage{height: 600px; width: 100%; background-color: azure;}
+#midpage{height: 600px; width: 100%; background-color: #f0ffff;}
 #bannerpic{height: 600px; width: 50%; float: left;}
 #bannertext{height: 600px; width: 50%; float: right;}
 #space{height: 20px; width: 100%;}
