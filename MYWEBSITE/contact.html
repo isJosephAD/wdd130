@@ -46,26 +46,32 @@
 
             <div id="forForm" style="float: right; height: 500px; width: 300px;">
             
-                <div class="main-block">
-                    <div class="left-part">
-                      <i class="fas fa-envelope"></i>
-                      <i class="fas fa-at"></i>
-                      <i class="fas fa-mail-bulk"></i>
-                    </div>
-                    <form action="/">
-                      <h1>Contact Us</h1>
-                      <div class="info">
-                        <input class="fname" type="text" name="name" placeholder="Full name">
-                        <input type="text" name="name" placeholder="Email">
-                        <input type="text" name="name" placeholder="Phone number">
-                        <input type="text" name="name" placeholder="Website">
-                      </div>
-                      <p>Message</p>
-                      <div>
-                        <textarea rows="4"></textarea>
-                      </div>
-                      <button type="submit" href="/">Submit</button>
+                <div class="container">  
+                    <form id="contact" action="" method="post">
+                      <h3>Colorlib Contact Form</h3>
+                      <h4>Contact us for custom quote</h4>
+                      <fieldset>
+                        <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+                      </fieldset>
+                      <fieldset>
+                        <input placeholder="Your Email Address" type="email" tabindex="2" required>
+                      </fieldset>
+                      <fieldset>
+                        <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
+                      </fieldset>
+                      <fieldset>
+                        <input placeholder="Your Web Site (optional)" type="url" tabindex="4" required>
+                      </fieldset>
+                      <fieldset>
+                        <textarea placeholder="Type your message here...." tabindex="5" required></textarea>
+                      </fieldset>
+                      <fieldset>
+                        <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+                      </fieldset>
+                      
                     </form>
+                  </div>
+                
                   </div>
             
             </div>
