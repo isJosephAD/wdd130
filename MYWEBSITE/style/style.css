@@ -112,3 +112,5 @@ p{font-family:verdana;}
   .button2:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   }
+
+  #space1{height: 500px; width: 50%; background-color: #04AA6D; float: left;}
